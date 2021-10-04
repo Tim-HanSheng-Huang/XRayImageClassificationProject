@@ -2,7 +2,7 @@
 Topic: Classification of COVID-19 Chest X-Ray Image Using AI Model  
 Report: "[利用AI模型判讀肺部X光圖片以偵測新冠肺炎](https://github.com/Tim-HanSheng-Huang/XRayImageClassificationProject/blob/main/XRayImageClassification_Report.pdf)"  
 Data Source: "[Kaggle Covid-19 Image Dataset](https://www.kaggle.com/pranavraikokte/covid19-image-dataset)"  
-Sample Data: 
+Sample Data:  
 ![image](https://github.com/Tim-HanSheng-Huang/XRayImageClassificationProject/blob/main/XRay_Sample.png)  
 Outcome: 
 <table>
