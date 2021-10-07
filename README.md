@@ -1,6 +1,6 @@
 ## X-Ray Image Classification Project
 Topic: COVID-19 Detection from Chest X-Ray Images Using AI Models  
-Description: Identified COVID-19 from X-Ray images and interpreted the neural networks by LIME and Grad-Cam  
+Description: Identified COVID-19 cases from X-Ray images and interpreted the neural networks by LIME and Grad-Cam  
 
 Report: "[利用AI模型判讀肺部X光圖片以偵測新冠肺炎](https://github.com/Tim-HanSheng-Huang/XRayImageClassificationProject/blob/main/XRayImageClassification_Report.pdf)"  
 Data Source: "[Kaggle Covid-19 Image Dataset](https://www.kaggle.com/pranavraikokte/covid19-image-dataset)"  
